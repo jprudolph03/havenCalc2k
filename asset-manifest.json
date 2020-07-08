@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/havenCalc2k/static/css/main.e78dfc97.chunk.css",
+    "main.js": "/havenCalc2k/static/js/main.f24733fb.chunk.js",
+    "main.js.map": "/havenCalc2k/static/js/main.f24733fb.chunk.js.map",
+    "runtime-main.js": "/havenCalc2k/static/js/runtime-main.3c3001fa.js",
+    "runtime-main.js.map": "/havenCalc2k/static/js/runtime-main.3c3001fa.js.map",
+    "static/js/2.a966efa1.chunk.js": "/havenCalc2k/static/js/2.a966efa1.chunk.js",
+    "static/js/2.a966efa1.chunk.js.map": "/havenCalc2k/static/js/2.a966efa1.chunk.js.map",
+    "index.html": "/havenCalc2k/index.html",
+    "precache-manifest.062fd968f67e14bd4dc0addb32e10a5c.js": "/havenCalc2k/precache-manifest.062fd968f67e14bd4dc0addb32e10a5c.js",
+    "service-worker.js": "/havenCalc2k/service-worker.js",
+    "static/css/main.e78dfc97.chunk.css.map": "/havenCalc2k/static/css/main.e78dfc97.chunk.css.map",
+    "static/js/2.a966efa1.chunk.js.LICENSE.txt": "/havenCalc2k/static/js/2.a966efa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c3001fa.js",
+    "static/js/2.a966efa1.chunk.js",
+    "static/css/main.e78dfc97.chunk.css",
+    "static/js/main.f24733fb.chunk.js"
+  ]
+}

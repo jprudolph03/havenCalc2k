@@ -10,9 +10,10 @@ function App() {
      <div class='intro'>
        <h1>Haven Calc 2k</h1>
        <ul>
-         <li>.125 (1/8th inch) is lost per cut from verticle blade</li>
+         <li>.125 (1/8th inch) is lost per cut from verticle blade.</li>
          <li>2 - 3 inches Left over. Less may destroy the last piece!</li>
          <li>Arrow UP or DOWN and watch the magic happen!<li>not on mobile</li></li>
+         <li><a href="https://github.com/jprudolph03/havenCalc2k">Repo</a></li>
        </ul>
      </div>
        <HavenInput />

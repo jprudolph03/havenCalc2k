@@ -1,8 +1,8 @@
 {
-  "name": "havencalc2k",
+  "name": "havenCalc2k",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://jprudolph03.github.io/havenCalc2k"
+  "homepage":"http://jprudolph03.github.io/havenCalc2k",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

@@ -1,19 +1,14 @@
-.HavenInput{
-  text-align: center;
+
+
+.red{
+  color: red;
 }
 
-.HavenOutput{
-  text-align: center;
+.green{
+  color: green;
 }
 
-label{
+.intro,
+.roffall{
   text-align: center;
-}
-
-.intro{
-  text-align: center;
-}
-
-.inputWidth{
-  width: 75%;
 }

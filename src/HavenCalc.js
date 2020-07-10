@@ -43,6 +43,7 @@ class HavenCalc extends Component{
             <li>.125 (1/8th inch) is lost per cut from verticle blade.</li>
             <li>Aim for 2-3 inch left over. Less may destroy last piece.</li>
             <li>Arrow UP or DOWN and watch magic happen.</li>
+            <li><a href="https://github.com/jprudolph03/havenCalc2k">Repo</a></li>
           </ul>
         </div>
         <div class="row">

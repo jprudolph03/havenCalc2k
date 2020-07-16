@@ -36,8 +36,8 @@ class HavenCalc extends Component{
     let remainingOffall = (mathOffall - lostFromCut).toFixed(3);
 
     return(
-      <div class="container">
-        <div class="intro">
+      <div className="container">
+        <div className="intro">
         <h2>Haven Calc 2.2</h2>
           <ul>
             <li>.125 (1/8th inch) is lost per cut from verticle blade.</li>
@@ -46,14 +46,14 @@ class HavenCalc extends Component{
             <li><a href="https://github.com/jprudolph03/havenCalc2k">Repo</a></li>
           </ul>
         </div>
-        <div class="row">
-          <form class="four columns">
+        <div className="row">
+          <form className="four columns">
                 <label>Input Part Length: </label>
                 <input onChange={this.handleChange} type="number" name="pLength" value={partLength} />
                 <label>Input Longbar Length: </label>
                 <input onChange={this.handleChange} type="number" name="lbLength" value={lbLength} />
           </form>
-          <div class="roffall">
+          <div className="roffall">
             <h1>Remaining Offall</h1>
             {remainingOffall < 2 || remainingOffall > 4 ? <h2 class='red'>{remainingOffall}</h2> : <h2 class='green'>{remainingOffall}</h2>}
           </div>

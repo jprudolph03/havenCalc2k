@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e67c47015c17857791d32bc7e4d2ffde",
+    "revision": "be41f01b113022a1da25d8cdc711a33e",
     "url": "/havenCalc2k/index.html"
   },
   {
-    "revision": "da746a5b4a014e471115",
+    "revision": "9b2e24fabc5dc82505ab",
     "url": "/havenCalc2k/static/css/main.67875bf2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/havenCalc2k/static/js/2.5faee373.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da746a5b4a014e471115",
-    "url": "/havenCalc2k/static/js/main.8ec59f21.chunk.js"
+    "revision": "9b2e24fabc5dc82505ab",
+    "url": "/havenCalc2k/static/js/main.834c997d.chunk.js"
   },
   {
     "revision": "d4c8cda18362f5f271b2",
